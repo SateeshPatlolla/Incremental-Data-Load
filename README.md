@@ -38,6 +38,7 @@ Implementing an incremental data loading pipeline involves several key steps, ea
 4. **Verify the Upload**:
    - Once the upload is complete, ensure that the `customer.csv` file is listed in your bucket.
    - This file will serve as the data source for our incremental data-loading process.
+Images/S3-Bucket-Object.png
   
 ### Step 2: AWS Redshift Cluster Configuration
 
